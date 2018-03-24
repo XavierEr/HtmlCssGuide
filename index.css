@@ -1,0 +1,18 @@
+div {
+    color: #cfcfcf;
+    font-family: 'Franklin Gothic Medium';
+    padding: 100px 50px 25px 70px;
+    border: solid 1px black;
+    border-radius: 5px;
+  }
+
+  div>div {
+    color: blue;
+    font-family: 'Franklin Gothic Medium';
+  }
+
+  #text {
+    color: red;
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 5px;
+  }
